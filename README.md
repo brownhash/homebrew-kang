@@ -1,6 +1,6 @@
-# homebrew-kang
+# homebrew-tap
 
-Brew tap formula for [Kang](https://github.com/brownhash/kang).
+Brew tap formula for all **brownhash** tools.
 
 ## Usage
 
@@ -9,8 +9,8 @@ Install Homebrew,
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Install Kang,
+Example -
+Install [Kang](https://github.com/brownhash/kang),
 ```shell
-brew tap brownhash/kang
-brew install kang
+brew install brownhash/tap/kang
 ```
