@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Brew tap formula for all **brownhash** tools.
+Brew tap formula for all [**brownhash**](https://github.com/brownhash) tools.
 
 ## Usage
 
