@@ -1,6 +1,6 @@
 require_relative "lib/private"
 
-class Example < Formula
+class PrivateExample < Formula
   desc "Tap for a private Github repository"
   homepage "https://github.com/owner/repository"
   version "1.0.0"
